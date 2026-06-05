@@ -9,28 +9,21 @@ Click the launcher icon and:
 - On one monitor? The screen splits 50/50 automatically
 - On two monitors? Chrome opens on one, Edge on the other
 
-## Setup (Easy - 2 Steps)
+## Setup (Easy - 1 Step)
 
-### Step 1: Download and Save the Folder
-
-1. Download the `Dual-Browser-Launcher` folder from the website
-2. Save it to your **Desktop** (or anywhere you'll remember)
-
-### Step 2: Create a Shortcut for Your Taskbar
-
-1. Open the folder you downloaded
-2. Right-click on **`launcher.bat`**
-3. Select **"Send to"** → **"Desktop (create shortcut)"**
-4. You now have a shortcut on your desktop
-5. **Right-click that shortcut** and **"Pin to Taskbar"**
+1. Download the `Dual-Browser-Launcher` folder
+2. Save it to your **Desktop** (or any easy-to-access location)
 
 That's it! You're done.
 
 ## How to Use
 
 1. Open the webpage you want in Chrome or Edge
-2. Click the launcher icon on your taskbar
-3. The same page opens in the other browser, perfectly positioned
+2. Open the `Dual-Browser-Launcher` folder on your Desktop
+3. Double-click **`launcher.bat`**
+4. The same page opens in the other browser, perfectly positioned
+
+That's all!
 
 ## What You Need
 
@@ -47,12 +40,12 @@ Before clicking the launcher, make sure you're viewing the website you want in y
 The launcher will always open both browsers with your page. If the windows aren't positioned perfectly, you can move them manually. This can happen with certain setups.
 
 ### Nothing happened when I clicked
-Make sure both Chrome and Edge are installed. Both browsers must be available on your computer.
+Make sure both Chrome and Edge are installed and fully loaded. Both browsers must be available on your computer.
 
 ### I can't find the launcher.bat file
 1. Open the folder you downloaded
 2. Look for a file named **launcher.bat** (it may just say "launcher")
-3. That's what you need to pin to your taskbar
+3. Double-click it to run
 
 ## Tips
 
